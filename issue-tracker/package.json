@@ -1,0 +1,21 @@
+{
+  "name": "issue-tracker",
+  "version": "1.0.0",
+  "description": "Issue Tracking Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyanshu Gautam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "ejs-layout": "^1.0.15",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-layout": "^0.1.0",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.3.4"
+  }
+}
